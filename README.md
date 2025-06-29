@@ -5,7 +5,7 @@ This is the **frontend interface** for the Vessel Movement Tracker project. It i
 
 ## 🌐 Live Frontend
 
-- **Vercel Deployment**: [https://vessel-tracker-frontend.vercel.app](https://vessel-tracker-frontend.vercel.app)
+- **Vercel Deployment**: [https://vessel-movement-tracker.vercel.app](https://vessel-movement-tracker.vercel.app)
 - **GitHub Pages**: [https://amanjotkaurr.github.io/vessel-tracker-frontend/](https://amanjotkaurr.github.io/vessel-tracker-frontend/)
 
 ## 📦 Technologies Used
